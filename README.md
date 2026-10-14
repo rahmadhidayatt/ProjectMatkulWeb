@@ -1,5 +1,5 @@
-# Tugas Mata Kuliah [Nama Matkul]
+# Tugas Mata Kuliah PEMROGRAMAN WEB
 
-Proyek ini dibuat untuk memenuhi tugas kuliah di [Nama Kampus]. 
+Proyek ini dibuat untuk memenuhi tugas kuliah di . 
 
 *Catatan: Penggunaan logo dan identitas kampus dalam repositori ini murni untuk keperluan akademis dan tidak terafiliasi secara resmi dengan institusi.*
